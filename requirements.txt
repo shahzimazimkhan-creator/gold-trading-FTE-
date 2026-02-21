@@ -1,0 +1,12 @@
+openai
+chromadb
+MetaTrader5
+pandas
+numpy
+ta
+tensorflow
+scikit-learn
+streamlit
+matplotlib
+schedule
+python-dotenv
